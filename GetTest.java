@@ -37,7 +37,7 @@ public class GetTest {
 		sum=sum+1/s;
 		}
 		System.out.println(sum);
-		//另外一种方式多好多好多好多好
+		//另外一种方式
 		double j=1.0,sum1=0.0,k;
 		for(int i2=1;i2<=20;i2++) {
 			j=j*i2;
